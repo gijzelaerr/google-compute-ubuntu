@@ -1,0 +1,4 @@
+.vagrant/
+download/*
+output/*
+provision.sh
